@@ -1,6 +1,6 @@
 # ad-project
 
-[Demo](http://natalia-malnova.ru/vue-ad/)
+[Demo](http://natalia-malnova.ru/work/vue-ad/)
 
 
 ## Технологии
